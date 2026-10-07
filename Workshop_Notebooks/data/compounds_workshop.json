@@ -1,0 +1,60 @@
+{
+  "A":
+    {"mw":        100,
+     "t_crit":    632,
+     "p_crit":    3550000,
+     "cp_liq":    [200],
+     "cp_solid":  [160],
+     "rho_liq":   900,
+     "rho_solid": 1100,
+     "p_vap":     [3.92161, 1411.869, -68.817],
+     "normal_state": "liquid"
+    },
+  "B":
+    {"mw":        100,
+     "t_crit":    614.6,
+     "p_crit":    3550000,
+     "cp_liq":    [200],
+     "cp_solid":  [160],
+     "rho_liq":   950,
+     "rho_solid": 1100,
+     "p_vap":     [4.06885, 1380.225, -67.285],
+     "normal_state": "liquid"
+    },
+  "C":
+    {"mw":        200,
+     "t_crit":    800,
+     "p_crit":    3000000,
+     "cp_liq":    [400],
+     "cp_solid":  [320],
+     "rho_liq":   1100,
+     "rho_solid": 1300,
+     "p_vap":     [3.0, 2000.0, -50.0],
+     "normal_state": "solid"
+    },
+  "D":
+    {"mw":        300,
+     "t_crit":    850,
+     "p_crit":    2500000,
+     "cp_liq":    [600],
+     "cp_solid":  [480],
+     "rho_liq":   1150,
+     "rho_solid": 1350,
+     "p_vap":     [3.0, 2200.0, -50.0],
+     "normal_state": "liquid"
+    },
+  "solvent":
+    {"mw":        72.107,
+     "t_crit":    540.2,
+     "p_crit":    3550000,
+     "cp_liq":    [63.393, 0.40257, -0.0012686, 0.0000018275, 0],
+     "cp_solid":  [1600],
+     "rho_liq":   887.6,
+     "rho_solid": 887.6,
+     "visc_liq":  [-2.786, 476.81, 0.0049173, -0.0000068815],
+     "p_vap":     [9.23027, 1256.68, -40.529],
+     "delta_hvap": 32300,
+     "surf_tension": 0.02640,
+     "tref_hvap": 305
+    }
+}
